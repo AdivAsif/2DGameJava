@@ -1,0 +1,13 @@
+For Stat text files:
+HP
+Attack
+Speed
+Luck
+Defence
+Movement
+Level
+Experience points to next Level
+
+For Stage text files:
+x position for enemy
+y position for enemy

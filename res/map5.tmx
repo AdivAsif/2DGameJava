@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="20" height="12" tilewidth="80" tileheight="80" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="ts2.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="20" height="12">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAClNnYGBQH8WjeBQPSQwAiKbDd8ADAAA=
+  </data>
+ </layer>
+ <layer id="2" name="Objects" width="20" height="12">
+  <properties>
+   <property name="blocked" value="true"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNjYGBgozJGB9jEiFFDyDxy5OjpPnLNQzeXVPMIxQe5gF7uG+7phZoYACnTHs3AAwAA
+  </data>
+ </layer>
+</map>
